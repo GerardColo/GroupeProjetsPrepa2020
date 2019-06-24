@@ -1,0 +1,5 @@
+#exclure les répertoires suivants
+#depuis GroupeProjetsPrepa2000 et /ProjetA
+*/__astcache/*
+#depuis /ProjetA
+/ProjetA/Win32/*
