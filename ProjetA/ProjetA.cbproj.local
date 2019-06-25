@@ -11,21 +11,21 @@
     <Transaction>2019/06/23 11:37:27.000.416,=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.cpp</Transaction>
     <Transaction>2019/06/23 11:43:25.000.618,=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project5PCH1.h</Transaction>
     <Transaction>2019/06/23 11:43:26.000.085,=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.cpp</Transaction>
-    <Transaction>2019/06/23 11:46:11.000.684,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.cpp=C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.cpp</Transaction>
-    <Transaction>2019/06/23 11:46:11.000.684,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.h=C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.h</Transaction>
-    <Transaction>2019/06/23 11:46:11.000.684,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.dfm=C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.dfm</Transaction>
-    <Transaction>2019/06/23 11:46:51.000.767,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project5PCH1.h=C:\CBLogic\CXLogic\GroupeProjetsA\ProjectAPCH1.h</Transaction>
-    <Transaction>2019/06/23 11:47:11.000.136,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project5.cbproj=C:\CBLogic\CXLogic\GroupeProjetsA\ProjectA.cbproj</Transaction>
-    <Transaction>2019/06/23 12:15:07.449,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetAPCH1.h=C:\CBLogic\CXLogic\GroupeProjetsA\ProjectAPCH1.h</Transaction>
-    <Transaction>2019/06/23 12:15:07.881,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetA.cbproj=C:\CBLogic\CXLogic\GroupeProjetsA\ProjectA.cbproj</Transaction>
-    <Transaction>2019/06/23 12:16:24.612,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.cpp=C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.cpp</Transaction>
-    <Transaction>2019/06/23 12:16:24.612,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.h=C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.h</Transaction>
-    <Transaction>2019/06/23 12:16:24.612,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.dfm=C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.dfm</Transaction>
-    <Transaction>2019/06/23 12:23:02.748,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetA.cbproj</Transaction>
-    <Transaction>2019/06/23 12:23:52.918,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj</Transaction>
-    <Transaction>2019/06/23 14:58:44.083,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\UniteA\UniteA.cpp=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.cpp</Transaction>
-    <Transaction>2019/06/23 14:58:44.083,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\UniteA\UniteA.h=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.h</Transaction>
-    <Transaction>2019/06/23 14:58:44.083,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\UniteA\UniteA.dfm=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.dfm</Transaction>
-    <Transaction>2019/06/23 15:01:49.504,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetAPCH1.h=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetAPCH1.h</Transaction>
+    <Transaction>2019/06/23 11:46:11.000.684,C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.h=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.h</Transaction>
+    <Transaction>2019/06/23 11:46:11.000.684,C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.dfm=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.dfm</Transaction>
+    <Transaction>2019/06/23 11:46:11.000.684,C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.cpp=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit6.cpp</Transaction>
+    <Transaction>2019/06/23 11:46:51.000.767,C:\CBLogic\CXLogic\GroupeProjetsA\ProjectAPCH1.h=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project5PCH1.h</Transaction>
+    <Transaction>2019/06/23 11:47:11.000.136,C:\CBLogic\CXLogic\GroupeProjetsA\ProjectA.cbproj=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project5.cbproj</Transaction>
+    <Transaction>2019/06/23 12:15:07.000.449,C:\CBLogic\CXLogic\GroupeProjetsA\ProjectAPCH1.h=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetAPCH1.h</Transaction>
+    <Transaction>2019/06/23 12:15:07.000.881,C:\CBLogic\CXLogic\GroupeProjetsA\ProjectA.cbproj=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetA.cbproj</Transaction>
+    <Transaction>2019/06/23 12:16:24.000.612,C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.dfm=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.dfm</Transaction>
+    <Transaction>2019/06/23 12:16:24.000.612,C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.cpp=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.cpp</Transaction>
+    <Transaction>2019/06/23 12:16:24.000.612,C:\CBLogic\CXLogic\GroupeProjetsA\UnitA.h=C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.h</Transaction>
+    <Transaction>2019/06/23 12:23:02.000.748,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetA.cbproj=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj</Transaction>
+    <Transaction>2019/06/23 12:23:52.000.918,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj</Transaction>
+    <Transaction>2019/06/23 14:58:44.000.083,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.cpp=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\UniteA\UniteA.cpp</Transaction>
+    <Transaction>2019/06/23 14:58:44.000.083,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.dfm=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\UniteA\UniteA.dfm</Transaction>
+    <Transaction>2019/06/23 14:58:44.000.083,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\UniteA.h=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\UniteA\UniteA.h</Transaction>
+    <Transaction>2019/06/23 15:01:49.000.504,C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetAPCH1.h=C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetAPCH1.h</Transaction>
   </Transactions>
 </BorlandProject>
