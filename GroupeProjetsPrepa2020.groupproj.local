@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-	<Transactions/>
+	<Transactions>
+    <Transaction>2019/06/23 12:20:52.513,C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\GroupeProjetsPrepa2020.groupproj=C:\CBLogic\CXLogic\GroupeProjetsA\ProjectGroupA.groupproj</Transaction>
+  </Transactions>
 	<Default.Personality>
-		<Projects ActiveProject="C:\CBLogic\CXLogic\GroupeProjetsA\ProjetA\ProjetA.cbproj"/>
+		<Projects ActiveProject="C:\CBLogic\CXLogic\GroupeProjetsPrepa2020\ProjetA\ProjetA.cbproj"/>
 	</Default.Personality>
 </BorlandProject>

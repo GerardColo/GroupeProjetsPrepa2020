@@ -3,7 +3,7 @@
         <ProjectGuid>{400BA091-8B52-4858-93AB-668A540332BA}</ProjectGuid>
     </PropertyGroup>
     <ItemGroup>
-        <Projects Include="..\GroupeProjetsA\ProjetA\ProjetA.cbproj">
+        <Projects Include="ProjetA\ProjetA.cbproj">
             <Dependencies/>
         </Projects>
     </ItemGroup>
@@ -15,13 +15,13 @@
         </BorlandProject>
     </ProjectExtensions>
     <Target Name="ProjetA">
-        <MSBuild Projects="..\GroupeProjetsA\ProjetA\ProjetA.cbproj"/>
+        <MSBuild Projects="ProjetA\ProjetA.cbproj"/>
     </Target>
     <Target Name="ProjetA:Clean">
-        <MSBuild Projects="..\GroupeProjetsA\ProjetA\ProjetA.cbproj" Targets="Clean"/>
+        <MSBuild Projects="ProjetA\ProjetA.cbproj" Targets="Clean"/>
     </Target>
     <Target Name="ProjetA:Make">
-        <MSBuild Projects="..\GroupeProjetsA\ProjetA\ProjetA.cbproj" Targets="Make"/>
+        <MSBuild Projects="ProjetA\ProjetA.cbproj" Targets="Make"/>
     </Target>
     <Target Name="Build">
         <CallTarget Targets="ProjetA"/>
